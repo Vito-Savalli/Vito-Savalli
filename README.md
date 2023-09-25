@@ -10,7 +10,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=vito-savalli
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vito-savalli&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vito-savalli)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vito-savalli&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
